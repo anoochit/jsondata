@@ -2,7 +2,7 @@
   {
     "name": "John",
     "description": 30,
-    "image_large": {"item1":"image1_large.png","item2":"image2_large.png","item2":"image3_large.png"},
+    "image_large": {"item1":"image1_large.png","item2":"image2_large.png","item3":"image3_large.png"},
     "image_small": {"item1":"image1_small.png","item2":"image2_small.png","item3":"image3_small.png"}
   },
     {

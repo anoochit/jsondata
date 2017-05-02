@@ -5,8 +5,7 @@
 "address" : "Pratuchai, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000",
 "phone": "035 242 284",
 "images" : ["http://imgur.com/OPJX1yW","http://imgur.com/JuurFfv","http://imgur.com/Ii9Uzvk"],
-"lat" : "14.355990",
-"lon" : "100.558564"
+"geolocation" : {"lat" : "14.355990","lon" : "100.558564"}
 },
 {
 "name" : "Wat Chaiwatthanaram",
@@ -14,8 +13,7 @@
 "address" : "Ban Pom, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000",
 "phone": "035 322 730",
 "images" : ["http://imgur.com/iT0DRNB", "http://imgur.com/whk2Z78", "http://imgur.com/puNdE5h"],
-"lat" : "14.342896",
-"lon" : "100.541822"
+"geolocation" : {"lat" : "14.342896","lon" : "100.541822"}
 },
 {
 "name" : "Wat Phanan Choeng",
@@ -23,13 +21,12 @@
 "address" : "Ho Rattanachai, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000",
 "phone": "096 739 8630",
 "images" : ["http://imgur.com/TXIwv72","http://imgur.com/0cqywlF","http://imgur.com/0dQB8CW"],
-"lat" : "14.344192",
-"lon" : "100.579032"
+"geolocation" : {"lat" : "14.344192","lon" : "100.579032"}
 },
 {
 "name" : "Ayutthaya Historical Park",
 "description" : "Ayutthaya Historical Park covers the ruins of the old city of Ayutthaya, Thailand. The city of Ayutthaya was founded by King Ramathibodi I in 1351. The city was captured by the Burmese in 1569.",
-"address" : "Ayutthaya, Phra Nakhon Si Ayutthaya",
+"address" : "Ayutthaya Historical Park, Phra Nakhon Si Ayutthaya",
 "phone": "081 900 7442",
 "images" : ["http://imgur.com/aM0NaBn","http://imgur.com/3N7Bl8c","http://imgur.com/tgKwAdT"],
 "lat" : "14.355547",
@@ -41,7 +38,6 @@
 "address" : "Tha Wa Su Kri, Phra Nakhon Si Ayutthaya District, Phra Nakhon Si Ayutthaya 13000",
 "phone": "081 900 7442",
 "images" : ["http://imgur.com/OjHUTtq","http://imgur.com/mCUte3A","http://imgur.com/iU08zd9"],
-"lat" : "14.358792",
-"lon" : "100.567376"
+"geolocation" : {"lat" : "14.358792","lon" : "100.567376"}
 }
 ]

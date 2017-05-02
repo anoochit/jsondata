@@ -1,0 +1,14 @@
+[
+  {
+    "name": "John",
+    "description": 30,
+    "image_large": {"1":"image1_large.png","2":"image2_large.png","3":"image3_large.png"},
+    "image_small": {"1":"image1_small.png","2":"image2_small.png","3":"image3_small.png"}
+  },
+    {
+    "name": "Jan",
+    "description": 30,
+    "image_large": {"1":"image1_large.png","2":"image2_large.png","3":"image3_large.png"},
+    "image_small": {"1":"image1_small.png","2":"image2_small.png","3":"image3_small.png"}
+  }
+]

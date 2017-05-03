@@ -38,8 +38,10 @@
     "address": "Ayutthaya Historical Park, Phra Nakhon Si Ayutthaya",
     "phone": "081 900 7442",
     "images": ["http://i.imgur.com/aM0NaBnl.jpg", "http://i.imgur.com/3N7Bl8cl.jpg", "http://i.imgur.com/tgKwAdTl.jpg"],
-    "lat": "14.355547",
-    "lon": "100.558436"
+    "geolocation": {
+      "lat": "14.355547",
+      "lon": "100.558436"
+    }
   },
   {
     "name": "Wat Ratchaburana",
